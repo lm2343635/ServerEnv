@@ -1,0 +1,16 @@
+PODS:
+  - ServerEnv (0.1.0)
+
+DEPENDENCIES:
+  - ServerEnv (from `../`)
+
+EXTERNAL SOURCES:
+  ServerEnv:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ServerEnv: c62cd04133141e1f13e1fa96963ccb325e1fb1e0
+
+PODFILE CHECKSUM: cec147774ad6cbd7ee463cacd238a2af8be7395f
+
+COCOAPODS: 1.8.4
