@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ServerEnv_Example' do
+  pod 'ServerEnv', :path => '../'
+
+  target 'ServerEnv_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
